@@ -34,21 +34,14 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 # LINKS
 
-<a href = ""> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = ""> <b>CODE</b> </a> <br>
+<a href = "https://tonystarq.github.io/Alarm_Clock_CodingNinja/"> <b>LIVE PRODUCT</b> </a> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <strong>Connect With Me @</strong>
 
 <p align="center">
-
+<a href="https://www.linkedin.com/in/manish-yadav-b325667a/"><img src="https://img.shields.io/badge/-Manish%20Yadav-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:manish.khdl.sy@gmail.com"><img src="https://img.shields.io/badge/-manish.khdl.sy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
-
-
-
-
-
-
-
- 
