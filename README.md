@@ -1,5 +1,7 @@
 # Alarm-Clock using Vanilla JavaScript
-
+<b>Live Web URL : https://tonystarq.github.io/Alarm_Clock_CodingNinja/</b>
+<br>
+<b>For any doubt/help :https://www.linkedin.com/in/manish-yadav-b325667a/</b>
 <li>This is a repository for Alarm Clock Developed using Vanilla JavaScript, HTML, CSS.</li>
 <br>
 <li> It is developed to create a soothing Experience with powerful features and clean interface.</li>
@@ -33,8 +35,6 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 
 # LINKS
-
-<a href = "https://tonystarq.github.io/Alarm_Clock_CodingNinja/"> <b>LIVE PRODUCT</b> </a> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
